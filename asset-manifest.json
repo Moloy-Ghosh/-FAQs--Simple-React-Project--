@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/-FAQs--Simple-React-Project--/static/css/main.20f5bfc7.css",
+    "main.js": "/-FAQs--Simple-React-Project--/static/js/main.28ceebe7.js",
+    "index.html": "/-FAQs--Simple-React-Project--/index.html",
+    "main.20f5bfc7.css.map": "/-FAQs--Simple-React-Project--/static/css/main.20f5bfc7.css.map",
+    "main.28ceebe7.js.map": "/-FAQs--Simple-React-Project--/static/js/main.28ceebe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20f5bfc7.css",
+    "static/js/main.28ceebe7.js"
+  ]
+}
